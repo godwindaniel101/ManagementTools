@@ -24,7 +24,7 @@
         "@fortawesome/fontawesome-free": "^5.12.1",
         "admin-lte": "^3.0.0-alpha.2",
         "bootstrap-toggle": "^2.2.2",
-        "moment": "^2.24.0",
+        "moment": "^2.29.2",
         "sweetalert2": "^9.8.2",
         "v-select2-component": "^0.4.3",
         "vform": "^1.0.1",
