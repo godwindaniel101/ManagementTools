@@ -33,6 +33,6 @@
         "vue-router": "^3.1.6",
         "vuejs-datatable": "^2.0.0-alpha.7",
         "vuetable-2": "^2.0.0-beta.4",
-        "vuetify": "^2.2.18"
+        "vuetify": "^2.6.10"
     }
 }
